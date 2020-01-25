@@ -1,4 +1,4 @@
-Benjamin Wu's Friendly Greetings iOS App 
+Benjamin Wu's Friendly iOS Greeting App 
 
 ### App Description
 The iOS app developed in Swift greets its users. Users are able to interact with the app by changing text and background colors as well as change the greeting with a textField. Developed as a prework for CodePath's Mobile App Design Workshop Series. 
